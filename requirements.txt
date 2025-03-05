@@ -1,0 +1,11 @@
+tensorflow
+streamlit
+tensorflow-cpu
+numpy
+pandas
+pip
+setuptools
+scikit-learn
+seaborn
+pillow
+google-generativeai
